@@ -16,7 +16,7 @@
  - 🌴 Desenvolvendo um Projeto Ecommerce em Flutter ;
  - 🌱 Atualmente aprimorando minhas habilidades em desenvolvimento mobile;
   
-- <img align="center" alt="almerinda-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img align="center" alt="almerinda-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img align="center" alt="almerinda-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="almerinda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="almerinda-golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
