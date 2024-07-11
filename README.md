@@ -1,47 +1,38 @@
-<h1>Hello World!! aqui é a Almerinda 👋️</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Eu+Sou+Almerinda+Lima.;Estudo+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/almerinda-lima-16052022b/">
-<img src="https://img.shields.io/badge/Almerinda%20Lima%20-%230A66C2?logo=Linkedin&style=flat-square"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsvPhFcFdSjHMWNgSZqZhsgTKNLfMvMQsdpZlBJwdLNMjVgdShDRmWTrJqFpdbDdzWPmL"><img src="https://img.shields.io/badge/almerindalima.ce@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
-<h2>
-<div id="techs">
-    <div style="display:flex">
-        <H3> Linguagens </H3>
-        <div>
-        <img src="https://img.shields.io/badge/DART%203-%23F7DF1E?logo=dart&style=for-the-badge&logoColor=white">
-           <img src="https://img.shields.io/badge/GOLAND%20-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
-           <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
-           <img src="https://img.shields.io/badge/RUBY%205-%23F7DF1E?logo=ruby&style=for-the-badge&logoColor=white">
-        </div>
-    </div>
-     <H3> Frameworks </H3>
-     <div>
-        <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/Flutter-%FFFFFF?logo=Flutter&style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/RAILS%203-%23F7DF1E?logo=rubyonrails&style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/VUE%203%20%20-%23E34F26?logo=vuedotjs&style=for-the-badge&logoColor=white"> 
-     </div>
-     <H3> Ferramentas e Ides </H3>
-     <div>
-       <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/POSTMAN%20%20%20-%23E34F26?logo=postman&style=for-the-badge&logoColor=white">
-     </div>
-      <H3> Banco de Dados </H3>
-     <div>
-       <img src="https://img.shields.io/badge/POSTGRES%20%20%20-%23007ACC?logo=postgresql&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/MYSQL%20%20%20-%23F7DF1E?logo=mysql&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/SQLITE%20%20%20-%23E34F26?logo=sqlite&style=for-the-badge&logoColor=white">
-     </div>
-      <H3> SO </H3>
-     <div>
-       <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&style=for-the-badge&logoColor=black">
-       <img src="https://img.shields.io/badge/MAC%20OS%20-%23E34F26?logo=macos&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/WINDOWS%20OS%20-%23007ACC?logo=windows&style=for-the-badge&logoColor=white">       
-     </div>
-    <H3> Deployment <H3>
-       <img src="https://img.shields.io/badge/AWS%20%20%20-%23E34F26?logo=amazonaws&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/HEROKU%20%20%20-%23007ACC?logo=heroku&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/DOCKER%20%20%20-%23E34F26?logo=docker&style=for-the-badge&logoColor=white">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=almeriinda&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Almeriinda's stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeriinda&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
 </div>
-</h2><br>
+
+
+<div style="display: inline"><br>
+  <h2 align="center">Mais Sobre Mim:</h2><br>
+  
+  <img align="right" alt="coragem" height=165px style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
+
+ - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
+ - 🌴 Desenvolvendo um Projeto Ecommerce em Flutter ;
+ - 🌱 Atualmente aprimorando minhas habilidades em desenvolvimento mobile;
+  
+- <img align="center" alt="almerinda-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img align="center" alt="almerinda-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="almerinda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="almerinda-golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="center" alt="almerinda-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="almerinda-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+
+  <div align="right">
+     <a href = "mailto:almerindalima.ce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/almerinda-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+</div>
+<div align="center">
+  <br><h3 align="center"><b>Número de Visitantes</b></h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{almeriinda}/count.svg" /></p> 
+</div>
+
+
+
