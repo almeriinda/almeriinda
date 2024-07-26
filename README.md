@@ -11,6 +11,7 @@
   <img align="right" alt="coragem" height="165px" style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
 
   - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
+  - 💻 Desenvolvedora Fullstack;
   - 🌴 Desenvolvendo um Projeto Ecommerce em Flutter;
   - 🌱 Atualmente aprimorando minhas habilidades em desenvolvimento mobile;
 
